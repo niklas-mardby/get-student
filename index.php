@@ -1,15 +1,5 @@
 <?php
 
-    /*
-
-        CHECK En liten datamängd med studenter
-        CHECK Visa en numrerad lista med studenters namn 
-        CHECK        som länkar att klicka på
-        
-        CHECK Klickar på en länk visas data om studenten
-
-    */
-
     $students = [
         [
             "id" => 1,
